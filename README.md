@@ -75,10 +75,9 @@ Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.
 Some third-party plugins that we used to build this template. Please check their licence.
 * **Bootstrap v4.5**: https://getbootstrap.com/docs/4.5/getting-started/introduction/
 * **Jquery v3.5.1**: https://jquery.com/download/
+* **Themify Icons**: https://themify.me/themify-icons
 * **Google Fonts**: http://fonts.google.com/
-* **Animate CSS**: https://animate.style/
-* **Lightbox2**: https://lokeshdhakar.com/projects/lightbox2/
-* **Filterizr**: https://yiotis.net/filterizr/
-* **jQuery Parallax**: https://ianlunn.co.uk/plugins/jquery-parallax/
+* **AOS**: https://michalsnik.github.io/aos/
+* **Venobox**: https://veno.es/venobox/
 * **Slick**: https://kenwheeler.github.io/slick/
-* **Smooth Scroll**: https://github.com/cferdinandi/smooth-scroll/
+* **Filterizr**: https://yiotis.net/filterizr/
