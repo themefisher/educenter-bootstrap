@@ -1,30 +1,30 @@
-# Educenter By Themefisher
-Educenter is an educational website template with affluent, contemporary, modern and trendy features for your majestic presence in web with a simple user interface.
+# Bingo By Themefisher
+BINGO is a powerful Bootstrap Business Template from the Themefisher team. By using this theme, it will be possible for you to make your startup website / business website and more on.
 
 
 <!-- demo -->
 ## Example Site
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/educenter/index.html) | [![](screenshots/course.png)](https://demo.themefisher.com/educenter/courses.html) | [![](screenshots/events.png)](https://demo.themefisher.com/educenter/events.html) |
+| [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/bingo/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/bingo/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/bingo/service.html) |
 |:---:|:---:|:---:|
-| **Homepage 1**  | **Course**  | **Events**  |
-| [![](screenshots/teacher.png)](https://demo.themefisher.com/educenter/teacher.html) | [![](screenshots/notice.png)](https://demo.themefisher.com/educenter/notice.html) | [![](screenshots/blog.png)](https://demo.themefisher.com/educenter/blog.html) |
-| **Teacher** | **Notice** | **Blog** |
+| **Homepage 1**  | **About**  | **Service**  |
+| [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/bingo/portfolio.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/themefisher/bingo/contact.html) | [![](screenshots/404.png)](https://demo.themefisher.com/themefisher/bingo/404.html) |
+| **Portfolio** | **Contact** | **404** |
 
-👉🏻[View Live Preview](https://demo.themefisher.com/constra/index.html)
+👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/bingo/)
 
 
 <!-- download -->
 ## Download And installation
 Download this template from any following options:
 
-* Download from [Github](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/archive/master.zip)
-* Clone the repository: `git clone https://github.com/themefisher/Educenter-Bootstrap-Education-Template.git`
-* Download from [Themefisher](https://themefisher.com/products/education-template/)
+* Download from [Github](https://github.com/themefisher/Bingo-Bootstrap-Business-Template/archive/master.zip)
+* Clone the repository: `git clone https://github.com/themefisher/Bingo-Bootstrap-Business-Template.git`
+* Download from [Themefisher](https://themefisher.com/products/bingo-bootstrap-business-template/)
 
 
 <!-- installation -->
 ### Basic Usage
-After downloading template, you can simply edit the HTML and CSS files from the `builds` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
+After downloading template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
 
 ### Advanced Usage
 For advanced usage you have some dependencies to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
@@ -38,7 +38,7 @@ npm install --global gulp-cli
 Or visit original [docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
 #### Run Theme
-After succesfully install those dependencies, open this theme with any IDM [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+After succesfully install those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open internal terminal of IDE [vs code shortcut <code>ctrl/cmd+\`</code>]
 
 * Install node package modules
 ```
@@ -50,13 +50,13 @@ gulp
 ```
 After that, it will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved.
 
-👉🏻 [visit documentation](https://docs.themefisher.com/educenter/)
+👉🏻 [visit documentation](https://docs.themefisher.com/bingo/)
 
 
 <!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/issues).
+We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/Bingo-Bootstrap-Business-Template/issues). It’s possible someone has already reported the same problem.
+If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/Bingo-Bootstrap-Business-Template/issues).
 
 <!-- support -->
 ## Technical Support or Questions (Paid)
@@ -66,6 +66,19 @@ If you have questions or need help integrating the product please [contact us](m
 ## License
 Copyright &copy; 2020 Designed & Developed by [Themefisher](https://themefisher.com)
 
-**Code License:** Released under the [MIT](https://github.com/themefisher/Educenter-Bootstrap-Education-Template/blob/master/LICENSE) license.
+**Code License:** Released under the [MIT](https://github.com/themefisher/Bingo-Bootstrap-Business-Template/blob/master/LICENSE) license.
 
 **Image license:** The images are only for demonstration purposes. They have their own licence, we don't have permission to share those image.
+
+<!-- resources -->
+## Resources
+Some third-party plugins that we used to build this template. Please check their licence.
+* **Bootstrap v4.5**: https://getbootstrap.com/docs/4.5/getting-started/introduction/
+* **Jquery v3.5.1**: https://jquery.com/download/
+* **Google Fonts**: http://fonts.google.com/
+* **Animate CSS**: https://animate.style/
+* **Lightbox2**: https://lokeshdhakar.com/projects/lightbox2/
+* **Filterizr**: https://yiotis.net/filterizr/
+* **jQuery Parallax**: https://ianlunn.co.uk/plugins/jquery-parallax/
+* **Slick**: https://kenwheeler.github.io/slick/
+* **Smooth Scroll**: https://github.com/cferdinandi/smooth-scroll/
