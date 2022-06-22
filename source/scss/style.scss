@@ -1,31 +1,17 @@
-/*
-THEME: Educenter - Education HTML Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
+@import "variables";
 
-HOMEPAGE: https://themefisher.com/products/education-template/
-DEMO: https://demo.themefisher.com/educenter/
-GITHUB: https://github.com/themefisher/Educenter-Bootstrap-Education-Template
+@import "mixins";
 
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
+@import "typography";
 
-@import 'variables';
+@import "buttons";
 
-@import 'mixins';
+@import "common";
 
-@import 'typography';
+@import "templates/navigation";
 
-@import 'buttons';
+@import "templates/slider";
 
-@import 'common';
+@import "templates/homepage";
 
-@import 'templates/navigation';
-
-@import 'templates/slider';
-
-@import 'templates/homepage';
-
-@import 'templates/otherspage';
+@import "templates/otherspage";

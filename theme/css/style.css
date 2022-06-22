@@ -5,19 +5,6 @@
  * GITHUB: https://github.com/themefisher/
  */
 
-/*
-THEME: Educenter - Education HTML Template
-VERSION: 1.0.0
-AUTHOR: Themefisher
-
-HOMEPAGE: https://themefisher.com/products/education-template/
-DEMO: https://demo.themefisher.com/educenter/
-GITHUB: https://github.com/themefisher/Educenter-Bootstrap-Education-Template
-
-WEBSITE: https://themefisher.com
-TWITTER: https://twitter.com/themefisher
-FACEBOOK: https://www.facebook.com/themefisher
-*/
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 @font-face {
@@ -581,7 +568,7 @@ link:focus,
   width: 100%;
   z-index: 10;
   background: #fff;
-  box-shadow: 0 2px 5px #0000000d;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0509803922);
 }
 
 .navbar .nav-item > .dropdown-toggle::after {
