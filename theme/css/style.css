@@ -7,12 +7,7 @@
 
 /*  typography */
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
-@font-face {
-  font-family: "futura-bold";
-  src: url("../fonts/Futura-Bold.woff") format("woff");
-  font-weight: normal;
-  font-style: normal;
-}
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap");
 body {
   line-height: 1.2;
   font-family: "Poppins", sans-serif;
@@ -31,7 +26,7 @@ p, .paragraph {
 
 h1, h2, h3, h4, h5, h6 {
   color: #1e1e4b;
-  font-family: "futura-bold";
+  font-family: "Montserrat", sans-serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -145,8 +140,8 @@ h6, .h6 {
 }
 .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary:focus, .btn-primary.active {
   color: #ffbc3b !important;
-  background-color: #ffab08 !important;
-  border-color: #ffab08 !important;
+  background-color: rgb(255, 170.5663265306, 8) !important;
+  border-color: rgb(255, 170.5663265306, 8) !important;
 }
 
 .btn-outline-primary {
@@ -183,12 +178,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #ffcd6e;
+  background: rgb(255, 205.4336734694, 110);
   color: #fff;
 }
 
 ::selection {
-  background: #ffcd6e;
+  background: rgb(255, 205.4336734694, 110);
   color: #fff;
 }
 
@@ -341,7 +336,7 @@ a h4:hover {
 }
 
 .font-secondary {
-  font-family: "futura-bold";
+  font-family: "Montserrat", sans-serif;
 }
 
 .mb-10 {
@@ -845,7 +840,7 @@ link:focus,
 .card-date {
   position: absolute;
   background: #ffbc3b;
-  font-family: "futura-bold";
+  font-family: "Montserrat", sans-serif;
   text-align: center;
   padding: 10px;
   color: #fff;
